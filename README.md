@@ -1,4 +1,4 @@
-# OAuth 2.0 & Stored XSS Vulnerability PoC
+# Explorando vulnerabilidades a partir de OAuth & Stored XSS
 
 Este projeto foi desenvolvido para demonstrar a exploração de vulnerabilidades **Stored XSS** em aplicações web para comprometer fluxos de autenticação **OAuth**. O cenário simula o roubo de sessões e *Account Takeover* via exfiltração de tokens de acesso do GitHub.
 
